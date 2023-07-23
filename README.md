@@ -10,7 +10,7 @@ I strive while using both logical and creative part of the brain. I have worked 
 📚 Student at ALX <br>
 
 <h1><b>How to reach me 🤩</b></h1>
-✉️ [GitHub Pages](https://pages.github.com/).
+✉️ (https://pages.github.com/).<br>
 🖇️ <a href="www.linkedin.com/in/ipeleng-lebelo-7bb83725b">Linkedin</a><br>
 📸 <a href="https://instagram.com/ipelengsilas2021?igshid=MmIzYWVlNDQ5Yg==">Instagram</a><br>
 📹 <a href="https://youtube.com/@pepelebelo2297">YouTube</a><br>

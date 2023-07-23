@@ -9,7 +9,7 @@ I strive while using both logical and creative part of the brain. I have worked 
 📚 Student at ALX <br>
 
 <h1><b>Reach me 🤩</b></h1>
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 

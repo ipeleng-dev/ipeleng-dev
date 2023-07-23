@@ -18,7 +18,7 @@ I strive while using both logical and creative part of the brain. I have worked 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,c,cs" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,cs" />
   </a>
 </p>
 

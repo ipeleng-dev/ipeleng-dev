@@ -7,8 +7,8 @@ I strive while using both logical and creative part of the brain. I have worked 
 <hr>
 
 💼 Worked at @FreshIdeasZa <br>
-👨‍🎓 Rosebank Collage graduate
-📚 Student at ALX
+👨‍🎓 Rosebank Collage graduate <br>
+📚 Student at ALX <br>
 📨 Reach me: ipelengsilas@yahoo.com
 
 

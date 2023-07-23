@@ -8,7 +8,11 @@ I strive while using both logical and creative part of the brain. I have worked 
 👨‍🎓 Rosebank Collage graduate <br>
 📚 Student at ALX <br>
 
-<h1><b>My Skills 🤩</b></h1>
+<h1><b>How to reach me 🤩</b></h1>
+✉️ Email: ipelengsilas@yahoo.com<br>
+🖇️ Linkedin: <a href="www.linkedin.com/in/ipeleng-lebelo-7bb83725b">Linkedin URL</a>
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />

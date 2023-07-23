@@ -21,8 +21,3 @@ I strive while using both logical and creative part of the brain. I have worked 
     <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,cs" />
   </a>
 </p>
-
-
-
-
-

@@ -8,8 +8,9 @@ I strive while using both logical and creative part of the brain. I have worked 
 👨‍🎓 Rosebank Collage graduate <br>
 📚 Student at ALX <br>
 
-<h1><b>Reach me 🤩</b></h1>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<h1><b>My Skills 🤩</b></h1>
+
+
 
 
 

@@ -11,7 +11,8 @@ I strive while using both logical and creative part of the brain. I have worked 
 <h1><b>How to reach me 🤩</b></h1>
 ✉️ <a href="ipelengsilas@yahoo.com">ipelengsilas@yahoo.com</a><br>
 🖇️ <a href="www.linkedin.com/in/ipeleng-lebelo-7bb83725b">Linkedin</a><br>
-📸 <a href="https://instagram.com/ipelengsilas2021?igshid=MmIzYWVlNDQ5Yg==">Instagram</a>
+📸 <a href="https://instagram.com/ipelengsilas2021?igshid=MmIzYWVlNDQ5Yg==">Instagram</a><br>
+📹 <a href="https://youtube.com/@pepelebelo2297">YouTube</a><br>
 
 
 <p align="center">

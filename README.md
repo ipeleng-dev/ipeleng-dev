@@ -6,4 +6,10 @@ I strive while using both logical and creative part of the brain. I have worked 
 
 <hr>
 
+💼 Worked at @FreshIdeasZa
+👨‍🎓 Rosebank Collage graduate
+📚 Student at ALX
+📨 Reach me: ipelengsilas@yahoo.com
+
+
 

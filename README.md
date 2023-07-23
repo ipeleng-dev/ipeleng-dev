@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ipeleng, a graduate software developer at Rosebank College. I have worked closely with developers to create real world applications for mobile and web using the latest technology trends. 
+<b>I am a Full-stack Front-end engineer and designer </b>
 
 <!--
 **ipeleng-dev/ipeleng-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

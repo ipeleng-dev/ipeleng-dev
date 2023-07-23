@@ -7,7 +7,10 @@ I strive while using both logical and creative part of the brain. I have worked 
 💼 Worked at @FreshIdeasZa <br>
 👨‍🎓 Rosebank Collage graduate <br>
 📚 Student at ALX <br>
-📨 Reach me: ipelengsilas@yahoo.com
+
+<h1><b>Reach me 🤩</b></h1>
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+
 
 
 

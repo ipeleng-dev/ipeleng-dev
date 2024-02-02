@@ -2,7 +2,7 @@
 
 🚀 Skills & Expertise:
 
-🌐 Full-Stack Web Development (React, Next.js, .NET Core)
+🌐 Full-Stack Web Development (React, Next.js, .NET Core) </br>
 📱 Mobile App Development (React Native)
 🔧 C++ Enthusiast (Graphics and Systems Programming)
 🌈 Technologies I Love to Work With:

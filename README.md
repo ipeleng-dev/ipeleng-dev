@@ -1,23 +1,27 @@
-<h1><b>Hi, I'm Ipeleng 👋</b></h1>
+👋 Hello, World! I'm Ipeleng, a passionate software developer and technology enthusiast. My journey in the world of coding began with a fascination for turning ideas into reality through lines of code.
 
-<b>I'm a Full-stack web developer. </b>
+🚀 Skills & Expertise:
 
-I strive to use both logical and creative parts of the brain. I have worked closely with developers to create real-world applications for both mobile and web using the latest technology trends. I stand for quality, innovation, and building products that are useful to humans. I am a highly motivated and self-directed individual who is always eager to take on new challenges and learn new things.
+🌐 Full-Stack Web Development (React, Next.js, .NET Core)
+📱 Mobile App Development (React Native)
+🔧 C++ Enthusiast (Graphics and Systems Programming)
+🌈 Technologies I Love to Work With:
+JavaScript | TypeScript | C++ | HTML | CSS | SQL | Azure
 
-<h1><b>About me 👱‍♂️</b></h1>
-💼 Ex-employee at @FreshIdeasZa <br>
-👨‍🎓 Rosebank Collage graduate <br>
-📚 Student at ALX <br>
+📚 Education:
 
-<h1><b>How to reach me 🤩</b></h1>
-✉️ ipelengsilas@yahoo.com<br>
-🖇️ Linkedin: www.linkedin.com/in/ipeleng-lebelo-7bb83725b <br>
-📸 Instagram: https://instagram.com/ipelengsilas2021?igshid=MmIzYWVlNDQ5Yg==<br>
-📹 YouTube: https://youtube.com/@pepelebelo2297<br>
+🎓 Diploma in Computer Science, Rosebank College, 2022
+🌱 Always Learning:
+I believe in the power of continuous learning. Currently exploring Python and Blockchain.
 
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,cs" />
-  </a>
-</p>
+🔗 Connect with Me:
+
+🐦 Twitter: @ipeleng-dev
+💼 LinkedIn: www.linkedin.com/in/ipeleng-lebelo-7bb83725b
+🎯 Mission:
+Transforming ideas into reality, one line of code at a time. Let's build something amazing together!
+
+📫 Contact:
+Feel free to reach out for collaboration or just to chat! Email me at ipelengsilas@yahoo.com
+
+✨ Passionate about Technology, Committed to Excellence!
